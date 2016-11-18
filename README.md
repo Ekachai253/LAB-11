@@ -1,3 +1,5 @@
+###นายเอกชัย ภมรสุขนิรันดิ์ 57030253
+
 #ใบงานที่ 11
 ##การเขียนโปรแกรมกราฟฟิกส์ด้วย GDI+ (3)
 ## กล่าวนำ
@@ -12,19 +14,23 @@
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-1.png">
-</p>
+
+![](https://github.com/Ekachai253/LAB-11/blob/bc0e1063b120899622eadf6223616c7a2b5af336/imgs/1.jpg)
 
 ### การระบายสีด้วย HatchBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
  <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-2.png">
-</p>
+
+![](https://github.com/Ekachai253/LAB-11/blob/bc0e1063b120899622eadf6223616c7a2b5af336/imgs/2.jpg)
 
 ### การระบายสีด้วย TextureBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
-</p>
+
+![](https://github.com/Ekachai253/LAB-11/blob/bc0e1063b120899622eadf6223616c7a2b5af336/imgs/3.jpg)
+
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
 
 ### การระบายสีด้วย TextureBrush
@@ -43,6 +49,10 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
 
+
+![](https://github.com/Ekachai253/LAB-11/blob/bc0e1063b120899622eadf6223616c7a2b5af336/imgs/4.jpg)
+
+
 ### การระบายสีด้วย Path Gradient Brush
 
 การระบายสีด้วย Path Gradient Brush เป็นการไล่เฉดสีตาม path ที่กำหนด ในโปรแกรมตัวอย่างนี้จะวาดวงรีและไล่เฉดสีจากด้านในออกสู่ด้านนอก
@@ -56,11 +66,13 @@
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen3_Paint(object sender, PaintEventArgs e)```
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
-</p>
+
+![](https://github.com/Ekachai253/LAB-11/blob/bc0e1063b120899622eadf6223616c7a2b5af336/imgs/5.jpg)
 
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
-</p>
+
+![](https://github.com/Ekachai253/LAB-11/blob/bc0e1063b120899622eadf6223616c7a2b5af336/imgs/6.jpg)
